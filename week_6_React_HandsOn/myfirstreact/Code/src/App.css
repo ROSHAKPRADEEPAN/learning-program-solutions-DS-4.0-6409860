@@ -1,0 +1,14 @@
+/* App.css */
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+div {
+  display: flex;
+  justify-content: center; /* horizontal centering */
+  /*align-items: center;     vertical centering */
+  height: 100vh;           /* full viewport height */
+  text-align: center;
+}
