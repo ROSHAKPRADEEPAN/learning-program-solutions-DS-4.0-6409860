@@ -1,0 +1,16 @@
+
+.container {
+  padding: 40px;
+  margin: 50px auto;
+  max-width: 400px;
+  text-align: center;  
+  
+}
+.container h1 {
+  margin-bottom: 30px;
+  font-size: 35px;
+  font-weight: bold;
+  color: #333;
+}
+
+
